@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Insurance_Policy_Details" max_length="40" name="x_rocy_insurance_p_insurance_policy_details" sizeclass="2" text_index="true" type="collection">
+        <element label="Address" max_length="250" name="address" type="string"/>
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Claiming amount" max_length="40" name="claiming_amount" type="integer"/>
+        <element label="Date of injury sustained or disease / illness first detected" max_length="40" name="date_of_injury_sustained_or_disease_illness_first_detected" type="glide_date_time"/>
+        <element label="Details of the Hospital / Nursing Home in which treatment was taken" max_length="40" name="details_of_the_hospital_nursing_home_in_which_treatment_was_taken" type="string"/>
+        <element label="DOB" max_length="40" name="dob" type="glide_date_time"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="1" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="2" value="female"/>
+                <element inactive_on_update="false" label="Transgender" sequence="3" value="transgender"/>
+            </choice>
+        </element>
+        <element label="Guardians name" max_length="40" name="guardians_name" reference="sys_user" type="reference"/>
+        <element choice="1" label="Maritial status" max_length="40" name="maritial_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Single" sequence="1" value="single"/>
+                <element inactive_on_update="false" label="Married" sequence="2" value="married"/>
+            </choice>
+        </element>
+        <element label="More Details about Fraud" max_length="40" name="more_details_about_fraud" type="string"/>
+        <element label="More Details about Injury / disease" max_length="250" name="more_details_about_injury_disease" type="string"/>
+        <element label="Name of Treating Physician / Surgeon" max_length="40" name="name_of_treating_physician_surgeon" reference="sys_user" type="reference"/>
+        <element label="Number of dependents" max_length="40" name="number_of_dependents" type="string"/>
+        <element label="Policy claimed" max_length="40" name="policy_claimed" type="boolean"/>
+        <element label="Policy Cost" max_length="20" name="policy_cost" type="currency"/>
+        <element label="Policy effective End date" max_length="40" name="policy_effective_end_date" type="glide_date_time"/>
+        <element label="Policy effective Start date" max_length="40" name="policy_effective_start_date" type="glide_date_time"/>
+        <element label="Policy holder" max_length="40" name="policy_holder" reference="sys_user" type="reference"/>
+        <element label="Policy number" max_length="40" name="policy_number" type="string"/>
+        <element choice="1" label="Policy period" max_length="40" name="policy_period" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="One Year" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Two Years" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Three Years" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Four Years" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Five Years" sequence="5" value="5"/>
+            </choice>
+        </element>
+        <element choice="1" label="Policy priority" max_length="40" name="policy_priority" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Policy type" max_length="40" name="policy_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Covid-19" sequence="1" value="covid19"/>
+                <element inactive_on_update="false" label="General Health Insurance" sequence="2" value="genreral_health"/>
+            </choice>
+        </element>
+        <element label="If Yes, Previous year Policy number" max_length="40" name="previous_year_policy_number" type="string"/>
+        <element choice="1" label="Profession" max_length="40" name="profession" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Private" sequence="1" value="private"/>
+                <element inactive_on_update="false" label="Non - Private" sequence="2" value="non_private"/>
+            </choice>
+        </element>
+        <element choice="1" label="Relation type" max_length="40" name="relation_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="W/O" sequence="1" value="w/o"/>
+                <element inactive_on_update="false" label="D/O" sequence="2" value="d/o"/>
+                <element inactive_on_update="false" label="S/O" sequence="3" value="s/o"/>
+            </choice>
+        </element>
+        <element label="Is this is a Renewal policy" max_length="40" name="renewal_policy" type="boolean"/>
+        <element choice="1" label="Salart range" max_length="40" name="salart_range" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="20K$" sequence="1" value="20"/>
+                <element inactive_on_update="false" label="20K$ - 50K$" sequence="2" value="20_50"/>
+                <element inactive_on_update="false" label="50K$ - 100K$" sequence="3" value="50_100"/>
+                <element inactive_on_update="false" label="Above 100K$" sequence="4" value="above_100"/>
+            </choice>
+        </element>
+        <element choice="1" label="Type of claim" max_length="40" name="type_of_claim" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hospitilization" sequence="1" value="hospitilization"/>
+                <element inactive_on_update="false" label="Pre &amp; Post Hospitalization" sequence="2" value="prepost_hospitalization"/>
+                <element inactive_on_update="false" label="Health Check Up" sequence="3" value="health_check_up"/>
+            </choice>
+        </element>
+        <element choice="1" label="Type of injury sustained or disease " max_length="40" name="type_of_injury_sustained_or_disease" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accident" sequence="1" value="accident"/>
+                <element inactive_on_update="false" label="Fever" sequence="2" value="fever"/>
+                <element inactive_on_update="false" label="Diabetes" sequence="3" value="diabetes"/>
+                <element inactive_on_update="false" label="Heart attack" sequence="4" value="heart_attack"/>
+                <element inactive_on_update="false" label="Covid" sequence="5" value="covid"/>
+                <element inactive_on_update="false" label="Others" sequence="6" value="others"/>
+            </choice>
+        </element>
+        <element label="Uncovering Agent fraud and Policy manipulation" max_length="40" name="uncovering_agent_fraud_and_policy_manipulation" type="boolean"/>
+    </element>
+</database>

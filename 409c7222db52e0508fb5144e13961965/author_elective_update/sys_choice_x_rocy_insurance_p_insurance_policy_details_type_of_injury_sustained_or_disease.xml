@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type_of_injury_sustained_or_disease" table="x_rocy_insurance_p_insurance_policy_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type_of_injury_sustained_or_disease</element>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 10:38:50</sys_created_on>
+            <sys_id>5b03e7a2dbd2e0508fb5144e139619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type_of_injury_sustained_or_disease</sys_name>
+            <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insurance_Policy_Maintenance_App">409c7222db52e0508fb5144e13961965</sys_scope>
+            <sys_update_name>sys_choice_x_rocy_insurance_p_insurance_policy_details_type_of_injury_sustained_or_disease</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 10:38:50</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_injury_sustained_or_disease</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Accident</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 10:38:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebf26fa2dbd2e0508fb5144e139619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 10:38:50</sys_updated_on>
+            <value>accident</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_injury_sustained_or_disease</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fever</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 10:39:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f1363a2dbd2e0508fb5144e13961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 10:39:07</sys_updated_on>
+            <value>fever</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_injury_sustained_or_disease</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Diabetes</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 10:39:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b2363a2dbd2e0508fb5144e1396194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 10:39:24</sys_updated_on>
+            <value>diabetes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_injury_sustained_or_disease</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Heart attack</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 10:39:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab436fa2dbd2e0508fb5144e1396190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 10:39:57</sys_updated_on>
+            <value>heart_attack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_injury_sustained_or_disease</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Covid</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 10:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f53eba2dbd2e0508fb5144e13961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 10:40:12</sys_updated_on>
+            <value>covid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_injury_sustained_or_disease</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Others</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 10:40:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>307363a2dbd2e0508fb5144e1396195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 10:40:35</sys_updated_on>
+            <value>others</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

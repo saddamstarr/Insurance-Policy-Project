@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_renderer">
+    <sys_aw_renderer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_renderer display_value="now-record-list-connected">d57daf1053203300099addeeff7b12e8</custom_renderer>
+        <custom_renderer_tag>now-record-list-connected</custom_renderer_tag>
+        <macroponent/>
+        <module_flag>true</module_flag>
+        <renderer_type/>
+        <sys_class_name>sys_aw_renderer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 08:03:26</sys_created_on>
+        <sys_id>767ffe26db52e0508fb5144e1396196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance_Policy_Maintenance_App">409c7222db52e0508fb5144e13961965</sys_scope>
+        <sys_update_name>sys_aw_renderer_767ffe26db52e0508fb5144e1396196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 08:03:26</sys_updated_on>
+        <table/>
+        <type_ext display_value="layout">bfacd1a10f517300bb57f4a1ff767e92</type_ext>
+        <workspace_config display_value="Insurance_Policy_Maintenance_App">ad7ff662db52e0508fb5144e139619f1</workspace_config>
+        <workspace_module display_value="home">c38f773d730c330075e8f358caf6a756</workspace_module>
+    </sys_aw_renderer>
+</record_update>

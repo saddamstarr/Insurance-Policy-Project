@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_date_of_inju_first_detected" label="Date of injury sustained or disease / illness first detected" language="en" table="x_rocy_insurance_p_insurance_data_load">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_date_of_inju_first_detected</element>
+            <help/>
+            <hint/>
+            <label>Date of injury sustained or disease / illness first detected</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_data_load</name>
+            <plural>Date of injury sustained or disease / illness first detected</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>saddam.hussain</sys_created_by>
+            <sys_created_on>2021-02-16 16:20:31</sys_created_on>
+            <sys_id>5c417872dbd6e0508fb5144e13961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date of injury sustained or disease / illness first detected</sys_name>
+            <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insurance_Policy_Maintenance_App">409c7222db52e0508fb5144e13961965</sys_scope>
+            <sys_update_name>sys_documentation_x_rocy_insurance_p_insurance_data_load_u_date_of_inju_first_detected_en</sys_update_name>
+            <sys_updated_by>saddam.hussain</sys_updated_by>
+            <sys_updated_on>2021-02-16 16:20:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

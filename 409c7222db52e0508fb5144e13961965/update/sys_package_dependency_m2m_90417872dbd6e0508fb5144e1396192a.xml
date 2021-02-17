@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">c4ef6c44db101010923fa6dc139619f9</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>saddam.hussain</sys_created_by>
+        <sys_created_on>2021-02-16 16:20:31</sys_created_on>
+        <sys_id>90417872dbd6e0508fb5144e1396192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+        <sys_updated_by>saddam.hussain</sys_updated_by>
+        <sys_updated_on>2021-02-16 16:20:31</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

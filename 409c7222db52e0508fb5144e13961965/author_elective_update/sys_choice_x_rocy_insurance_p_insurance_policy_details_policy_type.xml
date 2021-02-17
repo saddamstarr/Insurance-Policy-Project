@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="policy_type" table="x_rocy_insurance_p_insurance_policy_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>policy_type</element>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>saddam.hussain</sys_created_by>
+            <sys_created_on>2021-02-16 09:55:41</sys_created_on>
+            <sys_id>0b2953e6db92e0508fb5144e13961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>policy_type</sys_name>
+            <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insurance_Policy_Maintenance_App">409c7222db52e0508fb5144e13961965</sys_scope>
+            <sys_update_name>sys_choice_x_rocy_insurance_p_insurance_policy_details_policy_type</sys_update_name>
+            <sys_updated_by>saddam.hussain</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:55:41</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>policy_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Covid-19</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sequence>1</sequence>
+            <sys_created_by>saddam.hussain</sys_created_by>
+            <sys_created_on>2021-02-16 09:55:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c1993aadb92e0508fb5144e139619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>saddam.hussain</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:55:41</sys_updated_on>
+            <value>covid19</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>policy_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General Health Insurance</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <sequence>2</sequence>
+            <sys_created_by>saddam.hussain</sys_created_by>
+            <sys_created_on>2021-02-16 10:04:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>613b5baadb92e0508fb5144e139619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>saddam.hussain</sys_updated_by>
+            <sys_updated_on>2021-02-16 10:04:36</sys_updated_on>
+            <value>genreral_health</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

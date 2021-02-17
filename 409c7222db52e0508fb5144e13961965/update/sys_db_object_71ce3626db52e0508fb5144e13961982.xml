@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>Insurance_Policy_Details</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_rocy_insurance_p_insurance_policy_details</name>
+        <number_ref display_value="INSPOL">fdce3626db52e0508fb5144e1396199f</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">4befa484db101010923fa6dc13961970</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 08:00:21</sys_created_on>
+        <sys_id>71ce3626db52e0508fb5144e13961982</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Insurance_Policy_Details</sys_name>
+        <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance_Policy_Maintenance_App">409c7222db52e0508fb5144e13961965</sys_scope>
+        <sys_update_name>sys_db_object_71ce3626db52e0508fb5144e13961982</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 08:36:51</sys_updated_on>
+        <u_number/>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

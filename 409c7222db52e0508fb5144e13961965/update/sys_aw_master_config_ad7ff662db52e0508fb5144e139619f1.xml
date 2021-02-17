@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Insurance_Policy_Maintenance_App">257ff662db52e0508fb5144e139619f2</compiled_page_registry>
+        <description>It will maintain all the customer data related to Insurance Claims &amp; Personal Info</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Insurance_Policy_Maintenance_App Search Context Co">ed7ff662db52e0508fb5144e139619ef</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>Insurance_Policy_Maintenance_App</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 08:03:21</sys_created_on>
+        <sys_id>ad7ff662db52e0508fb5144e139619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Insurance_Policy_Maintenance_App</sys_name>
+        <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Insurance_Policy_Maintenance_App">409c7222db52e0508fb5144e13961965</sys_scope>
+        <sys_update_name>sys_aw_master_config_ad7ff662db52e0508fb5144e139619f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 08:03:21</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>insurance_policy_m</workspace_url>
+    </sys_aw_master_config>
+</record_update>

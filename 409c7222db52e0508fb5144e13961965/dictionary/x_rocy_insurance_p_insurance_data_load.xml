@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Insurance Data Load" max_length="40" name="x_rocy_insurance_p_insurance_data_load" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address" label="Address" max_length="40" name="u_address" type="string"/>
+        <element attributes="import_attribute_name=Age" label="Age" max_length="40" name="u_age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="40" name="u_assigned_to" type="string"/>
+        <element attributes="import_attribute_name=Claiming amount" label="Claiming amount" max_length="40" name="u_claiming_amount" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date of injury sustained or disease / illness first detected" label="Date of injury sustained or disease / illness first detected" max_length="40" name="u_date_of_inju_first_detected" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Details of the Hospital / Nursing Home in which treatment was taken" label="Details of the Hospital / Nursing Home in which treatment was taken" max_length="40" name="u_details_of_t_ment_was_taken" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DOB" label="DOB" max_length="40" name="u_dob" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gender" label="Gender" max_length="40" name="u_gender" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Guardians name" label="Guardians name" max_length="40" name="u_guardians_name" type="string"/>
+        <element attributes="Previous year Policy number=true,edge_encryption_enabled=true,import_attribute_name=If Yes" label="If Yes, Previous year Policy number" max_length="40" name="u_if_yes__prev__policy_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Is this is a Renewal policy" label="Is this is a Renewal policy" max_length="40" name="u_is_this_is_a_renewal_policy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Maritial status" label="Maritial status" max_length="40" name="u_maritial_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=More Details about Fraud" label="More Details about Fraud" max_length="47" name="u_more_details_about_fraud" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=More Details about Injury / disease" label="More Details about Injury / disease" max_length="40" name="u_more_details_jury___disease" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name of Treating Physician / Surgeon" label="Name of Treating Physician / Surgeon" max_length="40" name="u_name_of_trea_cian___surgeon" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number of dependents" label="Number of dependents" max_length="40" name="u_number_of_dependents" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Policy claimed" label="Policy claimed " max_length="40" name="u_policy_claimed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Policy Cost" label="Policy Cost" max_length="40" name="u_policy_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Policy effective End date" label="Policy effective End date" max_length="40" name="u_policy_effective_end_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Policy effective Start date" label="Policy effective Start date" max_length="40" name="u_policy_effective_start_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Policy holder" label="Policy holder" max_length="40" name="u_policy_holder" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Policy period" label="Policy period" max_length="40" name="u_policy_period" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Policy type" label="Policy type" max_length="40" name="u_policy_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Priority" label="Priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Profession" label="Profession" max_length="40" name="u_profession" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Relation type" label="Relation type" max_length="40" name="u_relation_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Salary range" label="Salary range" max_length="40" name="u_salary_range" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Task type" label="Task type" max_length="40" name="u_task_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type of claim" label="Type of claim" max_length="40" name="u_type_of_claim" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type of injury sustained or disease" label="Type of injury sustained or disease " max_length="40" name="u_type_of_inju_ned_or_disease" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Uncovering Agent fraud and Policy manipulation" label="Uncovering Agent fraud and Policy manipulation" max_length="40" name="u_uncovering_a_y_manipulation" type="string"/>
+    </element>
+</database>

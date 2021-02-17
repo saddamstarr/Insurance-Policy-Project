@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_policy_type" label="Policy type" language="en" table="x_rocy_insurance_p_insurance_data_load">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_policy_type</element>
+            <help/>
+            <hint/>
+            <label>Policy type</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_data_load</name>
+            <plural>Policy types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>saddam.hussain</sys_created_by>
+            <sys_created_on>2021-02-16 16:20:30</sys_created_on>
+            <sys_id>dc417872dbd6e0508fb5144e13961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Policy type</sys_name>
+            <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insurance_Policy_Maintenance_App">409c7222db52e0508fb5144e13961965</sys_scope>
+            <sys_update_name>sys_documentation_x_rocy_insurance_p_insurance_data_load_u_policy_type_en</sys_update_name>
+            <sys_updated_by>saddam.hussain</sys_updated_by>
+            <sys_updated_on>2021-02-16 16:20:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

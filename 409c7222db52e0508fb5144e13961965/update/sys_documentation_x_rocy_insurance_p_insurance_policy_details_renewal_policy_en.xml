@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="renewal_policy" label="Is this is a Renewal policy" language="en" table="x_rocy_insurance_p_insurance_policy_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>renewal_policy</element>
+            <help/>
+            <hint/>
+            <label>Is this is a Renewal policy</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_policy_details</name>
+            <plural>Is this is a Renewal policies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 08:47:49</sys_created_on>
+            <sys_id>3ca9076edb52e0508fb5144e139619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Is this is a Renewal policy</sys_name>
+            <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insurance_Policy_Maintenance_App">409c7222db52e0508fb5144e13961965</sys_scope>
+            <sys_update_name>sys_documentation_x_rocy_insurance_p_insurance_policy_details_renewal_policy_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 08:47:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_maritial_status" label="Maritial status" language="en" table="x_rocy_insurance_p_insurance_data_load">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_maritial_status</element>
+            <help/>
+            <hint/>
+            <label>Maritial status</label>
+            <language>en</language>
+            <name>x_rocy_insurance_p_insurance_data_load</name>
+            <plural>Maritial status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>saddam.hussain</sys_created_by>
+            <sys_created_on>2021-02-16 16:20:31</sys_created_on>
+            <sys_id>d0417872dbd6e0508fb5144e13961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Maritial status</sys_name>
+            <sys_package display_value="Insurance_Policy_Maintenance_App" source="x_rocy_insurance_p">409c7222db52e0508fb5144e13961965</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Insurance_Policy_Maintenance_App">409c7222db52e0508fb5144e13961965</sys_scope>
+            <sys_update_name>sys_documentation_x_rocy_insurance_p_insurance_data_load_u_maritial_status_en</sys_update_name>
+            <sys_updated_by>saddam.hussain</sys_updated_by>
+            <sys_updated_on>2021-02-16 16:20:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
